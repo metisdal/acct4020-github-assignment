@@ -1,2 +1,4 @@
 nano MaryTisdal
 "Theres a snake in my boot"--Sherriff Woody
+git config user.name "metisdal"
+git config uner.email "metisdal@memphis.edu"
